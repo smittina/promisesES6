@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Mystere",
+        "owner": {
+            "firstName": "Ted",
+            "lastName": "Mosby",
+            "mail": "tedmosby@himym.com"
+        },
+        "openDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 9,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            },
+            {
+                "type": "Brune",
+                "name": "Guiness"
+            }
+        ]
+    },
+    {
+        "name": "Anonyme",
+        "owner": {
+            "firstName": "Homme",
+            "lastName": "Mystère",
+            "mail": "jaipasdidee@anon.com"
+        },
+        "openDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 2
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            },
+            {
+                "type": "Brune",
+                "name": "Guiness"
+            }
+        ]
+    }
+]
